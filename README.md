@@ -35,7 +35,7 @@ This CSV file contains sample data for the salary management system.
 Install the required dependencies using the following command:
 ```bash
 pip install numpy pandas
-
+```
 
 ## outputs
 # Login
