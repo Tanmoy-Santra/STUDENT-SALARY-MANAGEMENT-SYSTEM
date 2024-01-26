@@ -46,11 +46,11 @@ This CSV file contains sample data for the salary management system.
 
 # Check status
 
-<img src="output4" />
+<img src="output4.png" />
 
 # Remove data
 
-<img src="output5" />
+<img src="output5.png" />
 
 ## Installation
 Install the required dependencies using the following command:
