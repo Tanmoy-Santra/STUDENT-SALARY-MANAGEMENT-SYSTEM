@@ -31,6 +31,13 @@ This CSV file contains sample data for the salary management system.
 ## Ingredients
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
+## outputs
+
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+
 ## Installation
 Install the required dependencies using the following command:
 ```bash
