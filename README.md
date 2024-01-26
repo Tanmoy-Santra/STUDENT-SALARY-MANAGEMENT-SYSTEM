@@ -31,6 +31,12 @@ This CSV file contains sample data for the salary management system.
 ## Ingredients
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
+## Installation
+Install the required dependencies using the following command:
+```bash
+pip install numpy pandas
+
+
 ## outputs
 # Login
 
@@ -52,8 +58,4 @@ This CSV file contains sample data for the salary management system.
 
 <img src="output5.png" />
 
-## Installation
-Install the required dependencies using the following command:
-```bash
-pip install numpy pandas
 
