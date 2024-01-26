@@ -37,7 +37,8 @@ Install the required dependencies using the following command:
 pip install numpy pandas
 ```
 
-## outputs
+# outputs<hr>
+
 # Login
 
 <img src="output1.png" />
