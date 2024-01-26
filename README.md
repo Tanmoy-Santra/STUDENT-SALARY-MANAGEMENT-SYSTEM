@@ -32,10 +32,15 @@ This CSV file contains sample data for the salary management system.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 ## outputs
+# Login
 
-<img src="" />
-<img src="" />
-<img src="" />
+<img src="output1.png" />
+
+# Check table
+
+<img src="output2.png" />
+
+<img src="output3.png" />
 <img src="" />
 
 ## Installation
