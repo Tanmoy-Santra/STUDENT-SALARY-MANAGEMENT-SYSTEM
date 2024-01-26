@@ -40,7 +40,12 @@ This CSV file contains sample data for the salary management system.
 
 <img src="output2.png" />
 
+# Add payment
+
 <img src="output3.png" />
+
+# Check status
+
 <img src="" />
 
 ## Installation
